@@ -1,3 +1,3 @@
 # Social-Tree
 
-### Social Tree, um projeto desenvolvido apartir dos desafios da Rocketseat
+### Social Tree, um projeto desenvolvido a partir dos desafios da Rocketseat
